@@ -60,9 +60,7 @@ $(document).ready(function () {
 // WHEN I click the save button for that timeblock
 // make sure the Save button works
 // THEN the text for that event is saved in local storage
-// do we need j.son stringify??
 
 // WHEN I refresh the page
 // THEN the saved events persist
-// Event.preventDefault(event);
 
